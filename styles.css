@@ -738,7 +738,7 @@
             transform: translateY(-5px);
         }
 
-        /* Responsive styles */
+    
         @media (max-width: 992px) {
             .hero-text h1 {
                 font-size: 2.5rem;
